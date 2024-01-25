@@ -1,0 +1,15 @@
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\bin\Debug\net7.0\Programinis kodas.exe
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\bin\Debug\net7.0\Programinis kodas.deps.json
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\bin\Debug\net7.0\Programinis kodas.runtimeconfig.json
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\bin\Debug\net7.0\Programinis kodas.dll
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\bin\Debug\net7.0\Programinis kodas.pdb
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\obj\Debug\net7.0\Programinis kodas.csproj.AssemblyReference.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\obj\Debug\net7.0\Programinis kodas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\obj\Debug\net7.0\Programinis kodas.AssemblyInfoInputs.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\obj\Debug\net7.0\Programinis kodas.AssemblyInfo.cs
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\obj\Debug\net7.0\Programinis kodas.csproj.CoreCompileInputs.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\obj\Debug\net7.0\Programinis kodas.dll
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\obj\Debug\net7.0\refint\Programinis kodas.dll
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\obj\Debug\net7.0\Programinis kodas.pdb
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\obj\Debug\net7.0\Programinis kodas.genruntimeconfig.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Inzinerinis projektas\Programinis kodas\Programinis kodas\obj\Debug\net7.0\ref\Programinis kodas.dll

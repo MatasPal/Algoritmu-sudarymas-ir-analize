@@ -1,0 +1,11 @@
+Pirmiausia programa įkelia duomenis iš "places_data.xlsx" failo, kuris turi informaciją apie skirtingas vietas, kurias reikia aplankyti. Duomenys apie vietas yra nuskaityti į List<Place> objektų sąrašą. Kiekviena vieta yra aprašoma savo pavadinimu, unikaliu identifikatoriumi, x ir y koordinatėmis.
+
+Tada programa pasirenka 150 vietų iš viso sąrašo kaip pradinį variantą ir pradeda genetinio optimizavimo procesą, naudodama GeneticOptimizer klasę. Šios klasės konstruktorius priima kelių parametrų reikšmes, pvz., populiacijos dydį, mutacijos ir kryžminimo dažnį bei maksimalų kartų skaičių.
+
+FindCheaperRoute metodas yra atsakingas už genetinio optimizavimo proceso vykdymą. Jis pradeda nuo populiacijos inicializavimo su atsitiktinai sumaišytomis vietomis. Tada jis vykdo optimizavimo iteracijas, įvertindamas populiacijos individualų tinkamumą (fitness), atliekant selekciją, kryžminimą ir mutaciją, ir pakeičiant seną populiaciją naujai gautais individais. Šis procesas kartojamas iki pasiekiama maksimali kartų skaičius.
+
+Po optimizavimo proceso programa išrenka geriausią individą (t.y., vietų maršrutą su mažiausiu tinkamumo balu) iš galutinės populiacijos ir jį grąžina. Taip pat apskaičiuoja ir išveda visos kelionės kainą.
+
+Be to, programa nupiešia grafiką, kuriame vaizduojamos vietos pagal x ir y koordinates, naudojant ScottPlot biblioteką.
+
+Galutinis rezultatas yra geriausias rastas vietų maršrutas ir jo kaina, taip pat sugeneruotas grafikas su vietų padėtimis.
