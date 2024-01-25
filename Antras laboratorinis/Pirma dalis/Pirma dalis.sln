@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PVZ", "PVZ\PVZ.csproj", "{1BDA14AF-26B0-4D7E-9CFD-869F0C4CC6E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Antra dalis", "Antra dalis\Antra dalis.csproj", "{4B1517DB-61B0-4F9C-8795-44C18EA17C99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDA14AF-26B0-4D7E-9CFD-869F0C4CC6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDA14AF-26B0-4D7E-9CFD-869F0C4CC6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDA14AF-26B0-4D7E-9CFD-869F0C4CC6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDA14AF-26B0-4D7E-9CFD-869F0C4CC6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B1517DB-61B0-4F9C-8795-44C18EA17C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B1517DB-61B0-4F9C-8795-44C18EA17C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B1517DB-61B0-4F9C-8795-44C18EA17C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B1517DB-61B0-4F9C-8795-44C18EA17C99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7B0E4C2-EB26-4B32-BBC1-3A95E5E41768}
+	EndGlobalSection
+EndGlobal

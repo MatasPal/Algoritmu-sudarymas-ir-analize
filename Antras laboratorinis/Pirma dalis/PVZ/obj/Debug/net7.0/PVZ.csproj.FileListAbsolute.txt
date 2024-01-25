@@ -1,0 +1,15 @@
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\bin\Debug\net7.0\PVZ.exe
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\bin\Debug\net7.0\PVZ.deps.json
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\bin\Debug\net7.0\PVZ.runtimeconfig.json
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\bin\Debug\net7.0\PVZ.dll
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\bin\Debug\net7.0\PVZ.pdb
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\obj\Debug\net7.0\PVZ.csproj.AssemblyReference.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\obj\Debug\net7.0\PVZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\obj\Debug\net7.0\PVZ.AssemblyInfoInputs.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\obj\Debug\net7.0\PVZ.AssemblyInfo.cs
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\obj\Debug\net7.0\PVZ.csproj.CoreCompileInputs.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\obj\Debug\net7.0\PVZ.dll
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\obj\Debug\net7.0\refint\PVZ.dll
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\obj\Debug\net7.0\PVZ.pdb
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\obj\Debug\net7.0\PVZ.genruntimeconfig.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\PVZ\obj\Debug\net7.0\ref\PVZ.dll

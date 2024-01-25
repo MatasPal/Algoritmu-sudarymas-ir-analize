@@ -1,0 +1,15 @@
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\bin\Debug\net7.0\Antra dalis.exe
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\bin\Debug\net7.0\Antra dalis.deps.json
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\bin\Debug\net7.0\Antra dalis.runtimeconfig.json
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\bin\Debug\net7.0\Antra dalis.dll
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\bin\Debug\net7.0\Antra dalis.pdb
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\obj\Debug\net7.0\Antra dalis.csproj.AssemblyReference.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\obj\Debug\net7.0\Antra dalis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\obj\Debug\net7.0\Antra dalis.AssemblyInfoInputs.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\obj\Debug\net7.0\Antra dalis.AssemblyInfo.cs
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\obj\Debug\net7.0\Antra dalis.csproj.CoreCompileInputs.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\obj\Debug\net7.0\Antra dalis.dll
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\obj\Debug\net7.0\refint\Antra dalis.dll
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\obj\Debug\net7.0\Antra dalis.pdb
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\obj\Debug\net7.0\Antra dalis.genruntimeconfig.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Antras laboratorinis\Pirma dalis\Antra dalis\obj\Debug\net7.0\ref\Antra dalis.dll

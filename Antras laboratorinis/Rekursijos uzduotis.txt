@@ -1,0 +1,1 @@
+Du broliai rado lobį, kurį sudaro n daiktų ir nori jį pasidalinti tarpusavyje. Visi daiktai turi būti pasidalinti, nei vienas daiktas negali būti padalintas į dvi dalis. Kiekvienas daiktas turi savo vertę, išreikštą sveikuoju skaičiumi. Daiktus reikia padalinti taip, kad broliams tenkančių daiktų verčių sumos būtų panašesnės.
