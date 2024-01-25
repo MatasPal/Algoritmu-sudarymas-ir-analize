@@ -1,0 +1,3 @@
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Pirmas laboratorinis\Pirmas laboratorinis\Pirmas laboratorinis\obj\Debug\Pirmas laboratorinis.csproj.AssemblyReference.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Pirmas laboratorinis\Pirmas laboratorinis\Pirmas laboratorinis\obj\Debug\Pirmas laboratorinis.csproj.SuggestedBindingRedirects.cache
+C:\Studijos\2 kursas\2 semestras\Algoritmų sudarymas ir analizė\Pirmas laboratorinis\Pirmas laboratorinis\Pirmas laboratorinis\obj\Debug\Pirmas laboratorinis.csproj.CoreCompileInputs.cache
