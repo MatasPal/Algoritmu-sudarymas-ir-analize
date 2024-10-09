@@ -1,19 +1,19 @@
-# Algoritmų sudarymas ir analizė
+# Algorithm Design and Analysis
 
-## Aprašymas
+## Description
 
-Šis repozitorija skirta **Algoritmų sudarymo ir analizės** modulio laboratoriniams darbams, kurie buvo atlikti KTU studijų metu. Šiame modulyje pagrindinis dėmesys skiriamas algoritmų kūrimui, jų efektyvumo analizei ir praktiniam pritaikymui sprendžiant įvairias problemas.
+This repository is dedicated to the **Algorithm Design and Analysis** module's laboratory work, which was completed during studies at KTU. This module focuses on the development of algorithms, their efficiency analysis, and practical application in solving various problems.
 
-## Turinys
+## Content
 
-Laboratoriniuose darbuose nagrinėjamos šios temos:
+The laboratory work covers the following topics:
 
-- **Paieškos algoritmai**
-- **Rikiavimo algoritmai**
-- **Rekursija**
-- **Dinaminis programavimas**
-- **Sudėtingumo analizė (Big-O notacija)**
-- **Grafiniai algoritmai (pvz., trumpiausio kelio paieška)**
-- **Euristiniai ir grūdintieji algoritmai**
+- **Search algorithms**
+- **Sorting algorithms**
+- **Recursion**
+- **Dynamic programming**
+- **Complexity analysis (Big-O notation)**
+- **Graph algorithms (e.g., shortest path search)**
+- **Heuristic and greedy algorithms**
 
-Kiekviename kataloge pateikti laboratorinių darbų uždaviniai, kodai ir jų analizė.
+Each directory contains the tasks from laboratory work, code implementations, and their analysis.
